@@ -1,4 +1,4 @@
-A combination is a selection of items from a larger pool, where the order of selection does not matter. For example, if a pool contains items A, B, and C, the possible combinations of two items are AB, AC, and BC. AB and BA are considered the same combination.
+A combination is a selection of items from a larger pool, where the order of selection does not matter. For example, if a pool contains items (A, B, C), the possible combinations of two items are AB, AC, and BC. AB and BA are considered the same combination.
 
 # The Binomial Coefficient
 
